@@ -1,0 +1,31 @@
+#app {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://images.unsplash.com/photo-1543252716-af81fa8b430d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9808e542e5507b416ee638acd43fd735&auto=format&fit=crop&w=500&q=60")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+#submit-form {
+  margin-top: 10px;
+}
+
+.element {
+  border-radius: 5px;
+  padding: 10px 50px 30px 50px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+span.output {
+  text-transform: uppercase;
+  margin-left: 5px;
+  margin-top: 50px;
+  color: beige;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.form-control {
+  margin-bottom: 3px;
+}
